@@ -19,6 +19,7 @@ while(userans!="correct"):
    c+=1
 
 print(c)
+print(num)
 
 
 
