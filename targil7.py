@@ -28,3 +28,7 @@ for i in text:
     print(i*c)
     c+=1
 
+print(c)
+
+
+
