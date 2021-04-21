@@ -21,14 +21,14 @@
 #       c+=1
 #       print("correct")
 # print(c)
-
+# ///////
 text=input("enter word")
 c=1
 for i in text:
     print(i*c)
     c+=1
 
-print(c)
+# print(c)
 
 
 #
